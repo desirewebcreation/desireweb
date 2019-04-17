@@ -204,4 +204,8 @@ public function beforeFilter() {
 		) );
 		$this->set ( 'MyCurrentHotLeads', $myCurrentHotLeads );
 	}
+        
+        public  function addnew(){
+            return "this";
+        }
 }
