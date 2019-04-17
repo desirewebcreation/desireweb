@@ -1,0 +1,9 @@
+Added user “nibiruli_blahbla” with password “blahbla1$”.
+
+User “nibiruli_blahbla” was added to the database “nibiruli_blahblahtees”.
+
+encription Key : 7a6593e891d656ea7062544013670cf0
+
+http://blahblahtees.nibirulite.com/index.php/
+
+teesadmin // admin@123

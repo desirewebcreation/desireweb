@@ -1,0 +1,27 @@
+[18-Jun-2015 02:32:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/crmnibirulite/public_html/app/View/Campaigns/index.ctp on line 35
+[20-Jun-2015 01:14:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/crmnibirulite/public_html/app/Controller/UsersController.php on line 183
+[20-Jun-2015 01:29:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/crmnibirulite/public_html/app/Controller/UsersController.php on line 187
+[20-Jun-2015 01:52:27 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/crmnibirulite/public_html/app/View/Users/dashboard.ctp on line 8
+[20-Jun-2015 02:02:34 America/Chicago] PHP Parse error:  syntax error, unexpected ''limit'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/crmnibirulite/public_html/app/Controller/UsersController.php on line 189
+[20-Jun-2015 02:22:44 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/crmnibirulite/public_html/app/View/Users/dashboard.ctp on line 8
+[20-Jun-2015 02:27:32 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/crmnibirulite/public_html/app/View/Elements/header/header.ctp on line 9
+[20-Jun-2015 02:27:32 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/crmnibirulite/public_html/app/View/Elements/header/header.ctp on line 9
+[20-Jun-2015 02:27:44 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/crmnibirulite/public_html/app/View/Elements/header/header.ctp on line 9
+[20-Jun-2015 02:27:44 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/crmnibirulite/public_html/app/View/Elements/header/header.ctp on line 9
+[20-Jun-2015 02:27:47 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/crmnibirulite/public_html/app/View/Elements/header/header.ctp on line 9
+[20-Jun-2015 02:27:47 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/crmnibirulite/public_html/app/View/Elements/header/header.ctp on line 9
+[20-Jun-2015 02:40:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ')' in /home/crmnibirulite/public_html/app/View/Users/dashboard.ctp on line 8
+[20-Jun-2015 02:53:18 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/crmnibirulite/public_html/app/View/Users/dashboard.ctp on line 8
+[20-Jun-2015 02:53:49 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/crmnibirulite/public_html/app/View/Users/dashboard.ctp on line 8
+[20-Jun-2015 03:07:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/crmnibirulite/public_html/app/Controller/LeadsController.php on line 172
+[25-Jun-2015 09:05:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/crmnibirulite/public_html/app/View/Leads/index.ctp on line 20
+[25-Jun-2015 09:08:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/crmnibirulite/public_html/app/View/Leads/index.ctp on line 10
+[26-Jun-2015 07:07:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/crmnibirulite/public_html/app/Controller/LeadsController.php on line 71
+[26-Jun-2015 07:21:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/crmnibirulite/public_html/app/Controller/LeadsController.php on line 78
+[30-Jun-2015 01:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/crmnibirulite/public_html/app/Model/User.php on line 219
+[30-Jun-2015 01:47:18 America/Chicago] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/crmnibirulite/public_html/app/Model/User.php on line 219
+[30-Jun-2015 01:48:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/crmnibirulite/public_html/app/Model/User.php on line 227
+[30-Jun-2015 01:48:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/crmnibirulite/public_html/app/Model/User.php on line 227
+[30-Jun-2015 01:48:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/crmnibirulite/public_html/app/Model/User.php on line 227
+[30-Jun-2015 01:48:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/crmnibirulite/public_html/app/Model/User.php on line 227
+[30-Jun-2015 06:18:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/crmnibirulite/public_html/app/Controller/LeadsController.php on line 41
